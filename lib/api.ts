@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API_KEY = '' // Substitua pela sua chave de API gratuita
+const API_KEY = '' 
 
 const api = axios.create({
   baseURL: 'https://geo.ipify.org/api/v1',
